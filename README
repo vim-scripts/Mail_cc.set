@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=49
+
+Bothered of receiving a copy of all your messages when you reply to a group of people ? Well, this file is for you ! 
+
+In order to use it, source this file or delete its last line and call DelFromCC() by yourself.
+
+It works fine with MUTT and ELM ; I haven't test any other MUA. MUTT defines the option metoo that should handle this... I've never successed to make it work properly :-((
